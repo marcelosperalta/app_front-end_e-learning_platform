@@ -63,7 +63,7 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 
 on bash / terminal  
 ```
-
+npm run dev
 ```
 <br>
 
