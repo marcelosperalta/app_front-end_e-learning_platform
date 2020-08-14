@@ -1,7 +1,7 @@
 {
   "name": "rocketseat_nlw2",
   "scripts": {
-    "project": "live-server",
+    "project": "live-server src",
     "clean": "del-cli dist",
     "publish": "gh-pages -d dist",
     "copy-win": "mkdir dist && xcopy src dist /e /exclude:excludelist.txt",
