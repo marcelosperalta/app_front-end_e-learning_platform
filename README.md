@@ -59,21 +59,6 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 [Figma](https://www.figma.com/)  
 <br>
 
-## :hammer: **_tools "Back-end":_**  
-
-[Git Bash](https://gitforwindows.org/)  
-
-[Node.js](https://nodejs.org/en/)  
-
-[Express.js](https://expressjs.com/)  
-
-[Nunjucks](https://mozilla.github.io/nunjucks/)  
-
-[SQLite](https://www.sqlite.org/)  
-
-[Visual Studio Code Extension "SQLite"](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)  
-<br>
-
 ## :dvd: **_install package.json dependencies:_**
 
 on bash / terminal  
