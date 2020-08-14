@@ -39,7 +39,7 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 
 ![home](./readme/screenshots/home_desk.png)  
 
-![estudar](./readme/screenshots/study.png)  
+![estudar](./readme/screenshots/study_front-end_only.png)  
 
 ![dar-aulas](./readme/screenshots/give-classes.png)  
 <br>
