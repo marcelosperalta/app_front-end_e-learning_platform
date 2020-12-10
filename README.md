@@ -1,3 +1,7 @@
+:link: _front-end version:_ https://marcelosperalta.github.io/app_front-end_e-learning_platform/
+
+:link: _fullstack version:_ https://github.com/marcelosperalta/app_fullstack_e-learning_platform
+
 # E-learning platform mock-up
 
 An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CSS](https://www.w3.org/Style/CSS/)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, and **[Node.js](https://nodejs.org/)**.  
